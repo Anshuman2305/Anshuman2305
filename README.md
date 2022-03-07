@@ -5,7 +5,7 @@
   # Hi there 👋
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Anshuman2305&theme=Javascript-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=FAFF10)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anshuman2305&show_icons=true&theme=dark&hide_border=true&text_color=F7DF1E&icon_color=F7DF1E)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anshuman2305&show_icons=true&theme=dark&hide_border=true&text_color=ffffff&icon_color=F7DF1E&title_color=F7DF1E)
   
 </div>
   
