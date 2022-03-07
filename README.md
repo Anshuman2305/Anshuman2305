@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=anshuman2305&labels=true"
+/>
+
 <!--
 **Anshuman2305/Anshuman2305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
