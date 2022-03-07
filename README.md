@@ -1,8 +1,13 @@
 ### Hi there 👋
 
-<img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=anshuman2305&width=820"
-/>
+<div align="center">
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Anshuman2305&theme=Javascript-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=FAFF10)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anshuman2305&show_icons=true&theme=radical)
+  
+</div>
+  
+
 
 <!--
 **Anshuman2305/Anshuman2305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
