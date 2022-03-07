@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=anshuman2305&width=820"
+/>
 
 <!--
 **Anshuman2305/Anshuman2305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
