@@ -4,7 +4,7 @@
   
   # Hi there 👋
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Anshuman2305&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=122651&fire=FFFFFF&ring=4BE3FF&dates=4BE3FF&stroke=4BE3FF)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Anshuman2305&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&background=FFF01F&fire=000000&ring=000000&dates=000000&stroke=000000&sideNums=000000&currStreakNum=000000&currStreakLabel=000000&sideLabels=000000&border=000000)](https://git.io/streak-stats)
   
   ![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anshuman2305&show_icons=true&theme=dark&hide_border=true&text_color=4BE3FF&icon_color=4BE3FF&title_color=4BE3FF&bg_color=122651&hide=contribs&hide_rank=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark&hide_border=true&bg_color=122651&text_color=ffffff&title_color=4BE3FF)](https://github.com/anuraghazra/github-readme-stats)
