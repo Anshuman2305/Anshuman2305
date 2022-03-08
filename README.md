@@ -5,11 +5,13 @@
   [![](images/header.png)](https://github.com/Anshuman2305)
  
   
-  [![](https://img.shields.io/badge/github-FFF01F?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
-[![](https://img.shields.io/badge/book-FFF01F?style=for-the-badge)](https://hamzamohdzubair.github.io/redant/)
-[![](https://img.shields.io/badge/API-FFF01F?style=for-the-badge)](https://docs.rs/crate/redant/latest)
-[![](https://img.shields.io/badge/Crates.io-FFF01F?style=for-the-badge)](https://crates.io/crates/redant)
-[![](https://img.shields.io/badge/Lib.rs-FFF01F?style=for-the-badge)](https://lib.rs/crates/redant)
+[![](https://img.shields.io/badge/github-FFF01F?style=for-the-badge)](https://github.com/Anshuman2305)
+[![](https://img.shields.io/badge/LinkedIn-FFF01F?style=for-the-badge)](https://www.linkedin.com/in/anshuman-mohanty-33463b190/)
+[![](https://img.shields.io/badge/leetcode-FFF01F?style=for-the-badge)](https://leetcode.com/Anshuman2305/)
+[![](https://img.shields.io/badge/Instagram-FFF01F?style=for-the-badge)](https://www.instagram.com/i_a__m___/)
+[![](https://img.shields.io/badge/facebook-FFF01F?style=for-the-badge)](https://www.facebook.com/anshuman.mohanty.1048/)
+[![](https://img.shields.io/badge/vsco-FFF01F?style=for-the-badge)](https://vsco.co/anshuman-mohanty/gallery)
+
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Anshuman2305&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&background=FFF01F&fire=000000&ring=000000&dates=000000&stroke=000000&sideNums=000000&currStreakNum=000000&currStreakLabel=000000&sideLabels=000000&border=000000)](https://git.io/streak-stats)
   
