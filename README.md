@@ -4,7 +4,7 @@
   
   # Hi there 👋
   
-  [![](https://img.shields.io/badge/github-FFF01F?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
+  [![](https://img.shields.io/badge/github-FF5733?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
 [![](https://img.shields.io/badge/book-FFF01F?style=for-the-badge)](https://hamzamohdzubair.github.io/redant/)
 [![](https://img.shields.io/badge/API-FFF01F?style=for-the-badge)](https://docs.rs/crate/redant/latest)
 [![](https://img.shields.io/badge/Crates.io-FFF01F?style=for-the-badge)](https://crates.io/crates/redant)
