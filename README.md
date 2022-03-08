@@ -3,8 +3,7 @@
 <div align="center">
   
   [![](images/header.png)](https://github.com/Anshuman2305)
-  
-  # Hi there 👋
+ 
   
   [![](https://img.shields.io/badge/github-FFF01F?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
 [![](https://img.shields.io/badge/book-FFF01F?style=for-the-badge)](https://hamzamohdzubair.github.io/redant/)
