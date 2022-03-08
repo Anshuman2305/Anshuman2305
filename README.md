@@ -2,6 +2,8 @@
 
 <div align="center">
   
+  [![](images/header.png)](https://github.com/hamzamohdzubair/redant)
+  
   # Hi there 👋
   
   [![](https://img.shields.io/badge/github-FFF01F?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
