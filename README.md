@@ -11,10 +11,10 @@
 
 
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshuman2305&repo=Mental-Health-CodeUtsava&theme=dark )](https://github.com/anuraghazra/github-readme-stats)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshuman2305&repo=Mental-Health-CodeUtsava&theme=dark )](https://github.com/anuraghazra/github-readme-stats)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshuman2305&repo=Mental-Health-CodeUtsava&theme=dark )](https://github.com/anuraghazra/github-readme-stats)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshuman2305&repo=Mental-Health-CodeUtsava&theme=dark )](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshuman2305&repo=Mental-Health-CodeUtsava&theme=dark&hide_border=true )](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshuman2305&repo=Mental-Health-CodeUtsava&theme=dark&hide_border=true )](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshuman2305&repo=Mental-Health-CodeUtsava&theme=dark&hide_border=true )](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshuman2305&repo=Mental-Health-CodeUtsava&theme=dark&hide_border=true )](https://github.com/anuraghazra/github-readme-stats)
 
   
 </div>
