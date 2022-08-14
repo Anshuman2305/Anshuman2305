@@ -23,11 +23,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark&hide_border=true&bg_color=122651&text_color=ffffff&title_color=FFF01F)](https://github.com/anuraghazra/github-readme-stats)
 
 
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshuman2305&repo=Mental-Health-CodeUtsava&theme=dark&hide_border=true&bg_color=122651&text_color=ffffff&title_color=FFF01F&icon_color=FFF01F )](https://github.com/anuraghazra/github-readme-stats)
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshuman2305&repo=Anshuman-Blog-Website&theme=dark&hide_border=true&bg_color=122651&text_color=ffffff&title_color=FFF01F&icon_color=FFF01F )](https://github.com/anuraghazra/github-readme-stats)
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshuman2305&repo=Todo-App&theme=dark&hide_border=true&bg_color=122651&text_color=ffffff&title_color=FFF01F&icon_color=FFF01F )](https://github.com/anuraghazra/github-readme-stats)
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshuman2305&repo=Rock-Identification&theme=dark&hide_border=true&bg_color=122651&text_color=ffffff&title_color=FFF01F&icon_color=FFF01F )](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshuman2305&repo=Twitter-Clone-NextJs&theme=dark&hide_border=true&bg_color=122651&text_color=ffffff&title_color=FFF01F&icon_color=FFF01F )](https://github.com/Anshuman2305/Twitter-Clone-NextJs)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshuman2305&repo=Mental-Health-CodeUtsava&theme=dark&hide_border=true&bg_color=122651&text_color=ffffff&title_color=FFF01F&icon_color=FFF01F )](https://github.com/Anshuman2305/Mental-Health-CodeUtsava)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshuman2305&repo=Blogging-Website-Nextjs&theme=dark&hide_border=true&bg_color=122651&text_color=ffffff&title_color=FFF01F&icon_color=FFF01F )](https://github.com/Anshuman2305/Blogging-Website-Nextjs)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshuman2305&repo=Todo-App&theme=dark&hide_border=true&bg_color=122651&text_color=ffffff&title_color=FFF01F&icon_color=FFF01F )](https://github.com/Anshuman2305/Todo-App)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anshuman2305&repo=Rock-Identification&theme=dark&hide_border=true&bg_color=122651&text_color=ffffff&title_color=FFF01F&icon_color=FFF01F )](https://github.com/Anshuman2305/Rock-Identification)
   
   
 
